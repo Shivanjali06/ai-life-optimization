@@ -32,3 +32,5 @@ How to Run Locally
    pip install -r requirements.txt
 3. Launch the application:
    streamlit run app.py
+
+"Note: To test the Google Fit API integration locally, generate your own credentials from the Google Cloud Console, save them as client_secret.json in the project root, and ensure the Google Fit API is enabled."
